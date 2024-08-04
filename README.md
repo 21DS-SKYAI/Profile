@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Various Domain Data Science Project**
 
-- 🌱 I’m currently learning **Generative Ai Models and advanced machine learning deployment techniques and expanding my knowledge in cloud solutions with AWS and Azure.**
+- 🌱 I’m currently learning **Generative AI Models and advanced machine learning deployment techniques and expanding my knowledge in cloud solutions with AWS and Azure.**
 
 - 👯 I’m looking to collaborate on **innovative data analytics projects in various Sectors, as well as opportunities to develop and deploy AI-driven solutions.**
 
