@@ -1,4 +1,4 @@
-#Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hello, geeks! <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px](https://www.google.com/search?sca_esv=e482c6f449298c6c&sca_upv=1&rlz=1C1ONGR_enIN1067IN1068&sxsrf=ADLYWILG0qg10j6oNtMaDuxY7R82Qz14aQ:1725810297335&q=data+science+gif&udm=2&fbs=AEQNm0BKxFXqFZETuC92mLOmXO9xTuwl7LTqpjEikSHB2sNnAo_Nt6_jBoO5j_EG4ZXs8aQCufxT5WhqKxk_t3EFVMM67rI6i01ADbZ-a5wYaAsalDcO6S1GH-LO2-BpNO0GjKIvvxoXnjjP08V8RmhXnS3ZTYi7mGxclhyNM7kU-cEZojmfYb66zxZupqQ3TpTT-qjAIEt1CwlZuUTZOKSe8wS1nEmI6w&sa=X&ved=2ahUKEwjIvuOt2LOIAxUKUGcHHQIGA2kQtKgLegQIEhAB&biw=1396&bih=632&dpr=1.38#vhid=IA-aRpasDaggTM&vssid=mosaic)">
 
 I'm Sathvik Yadav, a Data Scientist 🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about Data Science📈, Machine Learning🤖, and Deep Learning, and I enjoy learning new things. My goal is to build things that make a difference. I'm always open to new ideas and opportunities.
 
