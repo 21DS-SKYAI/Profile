@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sathvik Yadav</h1> <h3 align="center">A Passionate Data Scientist | Lifelong Learner | AI and ML Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=21ds-sky&label=Profile%20views&color=0e75b6&style=flat" alt="21ds-sky" /> </p> <p align="left"> <a href="https://twitter.com/ds_sky18" target="blank"><img src="https://img.shields.io/twitter/follow/ds_sky18?logo=twitter&style=for-the-badge" alt="ds_sky18" /></a> </p>
+<h1 align="center">Hi 👋, I'm Sathvik Yadav</h1> <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  
+A Passionate Data Scientist | Lifelong Learner | AI and ML Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=21ds-sky&label=Profile%20views&color=0e75b6&style=flat" alt="21ds-sky" /> </p> <p align="left"> <a href="https://twitter.com/ds_sky18" target="blank"><img src="https://img.shields.io/twitter/follow/ds_sky18?logo=twitter&style=for-the-badge" alt="ds_sky18" /></a> </p>
 🔭 Currently Working On: Developing innovative data science projects across multiple domains, focusing on real estate, telecom, and demand forecasting.
 
 🌱 Learning & Expanding: Delving deeper into Generative AI Models, advanced machine learning deployment techniques, and cloud computing with AWS and Azure to enhance the scalability of AI solutions.
