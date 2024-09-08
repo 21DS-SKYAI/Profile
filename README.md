@@ -1,11 +1,15 @@
-Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#Hello, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 I'm Sathvik Yadav, a Data Scientist 🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about Data Science📈, Machine Learning🤖, and Deep Learning, and I enjoy learning new things. My goal is to build things that make a difference. I'm always open to new ideas and opportunities.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21ds-sky&label=Profile%20views&color=0e75b6&style=flat" alt="21ds-sky" /> </p> <p align="left"> <a href="https://twitter.com/ds_sky18" target="blank"><img src="https://img.shields.io/twitter/follow/ds_sky18?logo=twitter&style=for-the-badge" alt="ds_sky18" /></a> </p>
 
 🔭 One line that describes me best?
+
 An ambitious boy who loves to solve real-world problems, daydream at nights, and sometimes code too.
 
 🏆 My other interests
+
 I'm also a Technical Content Writer and have a knack for writing. You can check out my blogs on Medium.
 I look forward to absorbing knowledge🧠, gaining experience👨‍🏭, collaborating🤝, and building amazing products 🏭 for the world🌍!
 
