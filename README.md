@@ -1,4 +1,6 @@
-# Hello, geeks <img src="https://github.com/21ds-Sky/21ds-Sky/blob/main/images.png?raw=true">
+# Hello, geeks                
+
+<img src="https://github.com/21ds-Sky/21ds-Sky/blob/main/images.png?raw=true">
 
 I'm Sathvik Yadav, a Data Scientist 🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about Data Science📈, Machine Learning🤖, and Deep Learning, and I enjoy learning new things. My goal is to build things that make a difference. I'm always open to new ideas and opportunities.
 
@@ -18,7 +20,7 @@ I'm Sathvik Yadav, a Data Scientist 🚀 and an Open-Source enthusiast ⚡ from 
 An ambitious boy who loves to solve real-world problems, daydream at nights, and sometimes code too.
 
 ### 🏆 My other interests
-I'm also a Technical Content Writer and have a knack for writing. You can check out my blogs on [Medium](https://medium.com/@techySky).
+I'm also a Technical Content Writer and have a knack for writing. You can check out my blogs on [Medium](https://medium.com/@sathvikyadav1718)).
 I look forward to absorbing knowledge 🧠, gaining experience 👨‍🏭, collaborating 🤝, and building amazing products 🏭 for the world 🌍!
 
 ---
