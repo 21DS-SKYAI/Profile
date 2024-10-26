@@ -1,93 +1,52 @@
-# Hello, geeks                
+# 👋 Hi, I’m <a href="https://www.linkedin.com/in/sathvik-yadav" target="_blank">Sathvik Yadav</a>
 
-<img src="https://github.com/21ds-Sky/21ds-Sky/blob/main/images.png?raw=true">
+-👀 Interests: Data Science | Building impactful machine learning models | Real Estate Analytics | AI | Open-Source Contributions | Sharing Data Insights
+-🌱 Currently: Data Science professional and real estate expert with a passion for driving impactful data-driven solutions. 
+- 💞️ I’m open to collaborating on predictive modeling, AI-powered analytics, and machine learning projects.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sathvik-yadav)
 
-I'm Sathvik Yadav, a Data Scientist 🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about Data Science📈, Machine Learning🤖, and Deep Learning, and I enjoy learning new things. My goal is to build things that make a difference. I'm always open to new ideas and opportunities.
+## Databases 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=21ds-sky&label=Profile%20views&color=0e75b6&style=flat" alt="21ds-sky" />
-</p>
+## Languages 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/sql-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<p align="left">
-  <a href="https://twitter.com/ds_sky18" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ds_sky18?logo=twitter&style=for-the-badge" alt="ds_sky18" />
-  </a>
-</p>
+## IDEs/Editors 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+## ML/DL 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### 🔭 One line that describes me best?
-An ambitious boy who loves to solve real-world problems, daydream at nights, and sometimes code too.
+## Visualization Tools 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🏆 My other interests
-I'm also a Technical Content Writer and have a knack for writing. You can check out my blogs on [Medium](https://medium.com/@sathvikyadav1718)).
-I look forward to absorbing knowledge 🧠, gaining experience 👨‍🏭, collaborating 🤝, and building amazing products 🏭 for the world 🌍!
+## Cloud Platforms 
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
+## Office 
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-### 📫 Contact Me At:
-- sathvikyadav1718@gmail.com
+## Others 
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/ds_sky18" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/sky-18feb/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/sky18feb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/21ds_sky/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SathvikYadav&show_icons=true&theme=dark" width="400">
 
----
-
-### 💻 Languages and Tools:
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=21ds-sky&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=21ds-sky&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21ds-sky&" alt="GitHub Streak Stats" />
-</p>
+<!---
+SathvikYadav/SathvikYadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
