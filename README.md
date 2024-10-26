@@ -1,8 +1,9 @@
 # 👋 Hi, I’m <a href="https://www.linkedin.com/in/sathvik-yadav" target="_blank">Sathvik Yadav</a>
 
--👀 Interests: Data Science | Building impactful machine learning models | Real Estate Analytics | AI | Open-Source Contributions | Sharing Data Insights
--🌱 Currently: Data Science professional and real estate expert with a passion for driving impactful data-driven solutions. 
-- 💞️ I’m open to collaborating on predictive modeling, AI-powered analytics, and machine learning projects.
+- 👀 I’m interested in crunching data,creating insightful interactive dashboards, building models, and AI, with a passion for building impactful data- 
+     driven solutions.
+- 🌱 I’m currently working as a Property advisor and Real Estate Analysts.
+- 💞️ I’m open for collaboration on predictive modeling, AI-powered analytics, and machine learning projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sathvik-yadav)
 
 ## Databases 
