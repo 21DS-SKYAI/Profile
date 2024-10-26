@@ -1,8 +1,10 @@
 # 👋 Hi, I’m <a href="https://www.linkedin.com/in/sathvik-yadav" target="_blank">Sathvik Yadav</a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=21ds-sky&label=Profile%20views&color=0e75b6&style=flat" alt="21ds-sky" /> </p>
+
 - 👀 I’m interested in crunching data,creating insightful interactive dashboards, building models, and AI, with a passion for building impactful data- 
      driven solutions.
-- 🌱 I’m currently working as a Property advisor and Real Estate Analysts.
+- 🌱 I’m currently working as a Property advisor and Real Estate Analyst.
 - 💞️ I’m open for collaboration on predictive modeling, AI-powered analytics, and machine learning projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sathvik-yadav)
 
@@ -45,7 +47,14 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SathvikYadav&show_icons=true&theme=dark" width="400">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=21ds-sky&show_icons=true&locale=en&layout=compact" alt="21ds-sky" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21ds-sky&show_icons=true&locale=en" alt="21ds-sky" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21ds-sky&" alt="21ds-sky" /></p>
+
+
+
 
 <!---
 SathvikYadav/SathvikYadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
